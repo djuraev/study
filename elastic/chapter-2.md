@@ -22,7 +22,7 @@ POST /products/_doc
 }
 ```
 
-*Indexing with ID
+* Indexing with ID
 ```
 PUT /products/_doc/100
 {
@@ -32,8 +32,8 @@ PUT /products/_doc/100
 }
 ```
 
-####Retrieve Document
-*With ID
+#### Retrieve Document
+* With ID
 ```
 GET /products/_doc/100
 ```
