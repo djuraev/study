@@ -94,3 +94,8 @@ POST /products/_update/100
   }
 }
 ```
+
+#### Delete Document
+```
+DELETE /products/_doc/100
+```
